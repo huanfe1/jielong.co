@@ -1,0 +1,23 @@
+body {
+    font-size: 16px;
+}
+
+.display>div {
+    margin: 10px 0px;
+}
+
+.link {
+    margin-top: 15px;
+}
+
+#trigger {
+    cursor: pointer;
+}
+
+#trigger:hover {
+    text-decoration: underline;
+}
+
+#time {
+    margin: 10px 0px;
+}
