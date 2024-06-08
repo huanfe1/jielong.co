@@ -2,7 +2,7 @@
 
 疲于接龙管家的每日打卡，便打算写个脚本，可 Cookies 有效期只有三天，编写了一个 Chrome 插件用来检测 Cookies 是否过期。
 
-![image](https://pic.imgdb.cn/item/666405395e6d1bfa054d8f34.png)
+![image](/images/ui.jpg)
 
 ## 推荐平台
 
